@@ -21,7 +21,7 @@ npm install
 npm start
 ```
 
-## Technologies used
+## Technologies used.
 
 JavaScript
 
@@ -35,7 +35,7 @@ npm
 
 This is a simple quiz application that demonstrates how to swap the case of each character in a string in JavaScript.
 
-### DESCRIPTION
+### DESCRIPTION.
 
 The prompt-sync package is required to create a synchronous prompt for user input.
 

@@ -10,4 +10,4 @@ const swapCase=(str) =>{
 console.log("Enter a string to swap the case of its characters:");
 // Example: 'The Quick Brown Fox'
 let input = prompt();
-console.log(swapCase(input));
+console.log(swapCase(input));//'tHE qUICK bROWN fOX'

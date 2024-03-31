@@ -12,4 +12,4 @@ const generateArray =(start, end) =>{
   }
   let start = Number(prompt("Enter the start number: "));//4
 let end = Number(prompt("Enter the end number: ")); //7
-console.log(generateArray(start, end));
+console.log(generateArray(start, end));//[4,5,6,7]
